@@ -15,4 +15,6 @@ In the repository you'll find the different version of the class relative to eac
 
 <img src="https://github.com/dgiovannelli/unina_envmetagenomic/blob/main/2021/envmetagen_cover.png" width="80%">
 
-__DISCLAIMER__ I try to give due credit to all the sources of figures and information I use in my classes, and I try to cite all the relevant paper and references. I do this in good faith and with educational purpose. That said, if you think I am infringing any copyright by using any of the figure please contact me at _donato.giovannelli [at] unina.it_ and I'll be happy to remove the material or work out a suitable way to use it. All the original material I produce for my class is provided in accordance with the Creative Commons [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). All cited and reused material is property of their rightful owner.
+### DISCLAIMER
+
+I try to give due credit to all the sources of figures and information I use in my classes, and I try to cite all the relevant paper and references. I do this in good faith and with educational purpose. That said, if you think I am infringing any copyright by using any of the figure please contact me at _donato.giovannelli [at] unina.it_ and I'll be happy to remove the material or work out a suitable way to use it. All the original material I produce for my class is provided in accordance with the Creative Commons [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). All cited and reused material is property of their rightful owner.

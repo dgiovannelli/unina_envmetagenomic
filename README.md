@@ -1,5 +1,5 @@
 # <img src="https://dgiovannelli.github.io//images/logopic/giovannellilab.png" width="60 px"> Environmental Metagenomic
-## Course material for the graduate course in "Environmental Metagenomic" (5 CFU), part of the Master Degree program in Biology of the University of Naples Federico II
+## Course material for the graduate course in "Environmental Metagenomic" (5 CFU), part of the Master Degree program in Biology at the University of Naples Federico II
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)

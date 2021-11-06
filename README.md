@@ -9,7 +9,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-<img src="https://dgiovannelli.github.io//images/logopic/giovannellilab.png" width="80%">
+<img src="https://github.com/dgiovannelli/unina_envmetagenomic/blob/main/2021/envmetagen_cover.png" width="60%">
 
 Introductory class in Environmental Metagenomic for graduate students pursuing a Master Degree in Biology with a focus in environmental sciences. The class gives a recap of basic microbiology and microbial ecology concepts and then jumps into a 20 hours hand-on metagenomic analysis of publicly available dataset using web-based tools. The course is designed to provide background and realistic (albeit simplified) hands on experience with metagenomic dataset. Students select a matagenomic study and use the publicly deposited data to reanalyze the community diversity and function using a read-based approach, and make a short presentation on their findings comparing the results with the original study.
 
